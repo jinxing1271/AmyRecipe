@@ -1,0 +1,62 @@
+body {
+  font-family:"open sans", Verdana, Georgia, sans-serif;
+  font-size: 16px;
+  color:#666666;
+  line-height:1.4em;
+}
+
+h1 {
+  font-family:cursive;
+  font-size:3em;
+  color:#666666;
+}
+
+h3 {
+  font-family:"open sans", Verdana, Georgia, sans-serif;
+  color:#666666;
+}
+
+
+.box {
+  margin:5em auto 0em auto;
+  width:40em;
+  border:1.5px solid #D3D3D3;
+  border-radius:10px;
+  padding:25px 25px 30px 25px;
+}
+
+.top {
+  text-align: center;
+}
+
+.firstimg {
+  float:left;
+  padding:10px 10px 50px 20px;
+}
+
+img {
+  float:right;
+  padding-right: 20px;
+}
+
+
+table {
+  border-top: 0.5px solid #D3D3D3;
+  border-bottom:0.5px solid #D3D3D3;
+}
+
+th {
+  font-family:"open sans", Verdana, Georgia, sans-serif;
+  padding:4px;
+  color:#666666;
+}
+
+td {
+  text-align:center;
+  padding:0.5px;
+}
+
+p {
+  color: #666666;
+  font-family:"open sans", Verdana, Georgia, sans-serif;
+}
